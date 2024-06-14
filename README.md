@@ -6,3 +6,6 @@ genetic background.
 genes. Machine learning models, specifically SVM, RF, LR, and XGBoost were evaluated on 
 the RNA-Seq count dataset. The decision tree-based algorithm XGBoost outperformed other 
 classifiers and SHAP analysis of this model helped identify top key genes.
+Raw count file: 2117ensemble.csv
+Clinical metadat: clin2117.csv
+GEO accession of dataset: GSE182117
